@@ -1,8 +1,8 @@
 # 👨‍💻 Bibek Panda | Software Craftsman
 
-[![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/bibekp-dev)](https://github.com/bibekp-dev){:target="_blank"}
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/pandabibek/)](https://www.linkedin.com/in/pandabibek/){:target="_blank"}
-[![gmail Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:bibekananda.panda@gmail.com)](mailto:bibekananda.panda@gmail.com){:target="_blank"}
+[![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/bibekp-dev)](https://github.com/bibekp-dev)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/pandabibek/)](https://www.linkedin.com/in/pandabibek/)
+[![gmail Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:bibekananda.panda@gmail.com)](mailto:bibekananda.panda@gmail.com)
 
 > Seasoned Fullstack Software Engineer at Anheuser-Busch InBev, crafting scalable enterprise solutions with a focus on architectural excellence and innovation.
 
