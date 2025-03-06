@@ -18,42 +18,46 @@
 
 ## 👤 About Me
 
-A passionate technologist with extensive experience in designing and implementing enterprise-scale applications. I specialize in creating robust, scalable solutions that drive business value while maintaining high standards of code quality and system design.
-
-```js
-const professional = {
-  name: 'Bibek Panda',
-  role: 'Fullstack Software Engineer',
-  expertise: {
-    architecture: ['Microservices', 'Event-Driven', 'Cloud-Native'],
-    backend: ['Node.js', 'Java/Spring', 'SQL/NoSQL'],
-    frontend: ['React', 'TypeScript', 'Modern JavaScript'],
-    cloud: ['Azure', 'Databricks', 'Distributed Systems']
-  },
-  principles: [
-    'Clean Architecture',
-    'Domain-Driven Design',
-    'Test-Driven Development',
-    'SOLID Principles'
-  ],
-  passions: ['System Design', 'Performance Optimization', 'Developer Experience'],
-  collaboration: {
-    tools: ['Git', 'Jira', 'Confluence'],
-    practices: ['Agile/Scrum', 'Code Reviews', 'Pair Programming']
-  }
-}
-```
-
-## 🏗️ Architectural Approach
-
-- 🏛️ **Design Philosophy**: Advocate for clean architecture and domain-driven design
-- 🔄 **Scalability**: Experience in designing distributed systems and microservices
-- 🛡️ **Quality**: Champion of test-driven development and continuous integration
-- 🚀 **Innovation**: Focus on emerging technologies and architectural patterns
-- 📊 **Data-Driven**: Expertise in designing robust data pipelines and analytics solutions
+A passionate technologist with extensive experience in **designing and implementing enterprise-scale applications**. I specialise in creating **robust, scalable solutions** that drive business value while maintaining **high standards of code quality and system design**. A results-driven Engineering Manager with a passion for building high-performing teams and fostering a culture of innovation. Experienced in leading cross-functional teams to deliver scalable and robust solutions while mentoring team members to achieve their full potential.
 
 ## 💻 Technical Expertise
 
+### 🏛️ Architecture & Infrastructure
+[Image: Microservices]
+[Image: Event-Driven]
+[Image: Azure]
+[Image: Azure DevOps]
+[Image: CI/CD]
+
+### ⚡ Backend Development
+[Image: Node.js]
+[Image: Java]
+[Image: Spring Boot]
+[Image: SQL]
+[Image: MongoDB]
+
+### 🎨 Frontend Development
+[Image: Typescript]
+[Image: React]
+[Image: JavaScript]
+
+### 🛠️ DevOps & Cloud
+[Image: Kubernetes]
+[Image: Docker]
+[Image: Git]
+[Image: Bash]
+
+### 🤖 AI & Machine Learning
+[Image: Prompt Engineering]
+[Image: OpenAI APIs]
+[Image: AI Integration]
+
+### 🤝 Leadership & Management
+
+-   **Team Leadership**: Experience in leading and managing engineering teams, fostering collaboration, and driving technical excellence.
+-   **Technical Strategy**: Proven ability to develop and execute technical strategies aligned with business goals.
+-   **Project Management**: Expertise in Agile methodologies, project planning, and delivery.
+-   **Mentorship**: Passionate about mentoring junior engineers and fostering their professional growth.
 <sub>🏛️ Architecture & Infrastructure</sub>
 
 <img src="https://img.shields.io/badge/-Microservices-0078D4?style=flat" alt="Microservices" /> <img src="https://img.shields.io/badge/-Event--Driven-0078D4?style=flat" alt="Event-Driven" /> <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftAzure&logoColor=white&labelColor=0078D4" alt="Azure" /> <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D4?logo=azuredevops&logoColor=white&labelColor=0078D4" alt="Azure DevOps" /> <img src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat" alt="CI/CD" />
