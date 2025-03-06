@@ -1,4 +1,4 @@
-# 👨‍💻 Bibek Panda | Software Craftsman
+# 👨‍💻 Bibek Panda | Software Craftsman | Engineering Manager
 
 [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/bibekp-dev)](https://github.com/bibekp-dev) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://www.linkedin.com/in/pandabibek/)](https://www.linkedin.com/in/pandabibek/)
